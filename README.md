@@ -1,5 +1,6 @@
 
-1. Introduction
+1. Introduction:-
+
 Spam’s on the internet have become a menacing presence as the Web has grown older. More so nowadays as they have occupied social networks which are the primary means of getting information for millions of people around the globe.
 Primarily we have targeted Twitter as many accounts with high usage volume are attacked by the spam bots. As Twitter is linked with other major social networking sites like Facebook, Instagram.
 It is sufficient to track spam bot on twitter.
@@ -9,7 +10,7 @@ Values that we acquired from the twitter API.
 This is a machine learning based approach to classify users from bots. 
 
 
-Classificatrion system:-
+2.Classification system:-
 
 Twitter offers API for retrieving the real time attributes such as the objects on the persons account status  , network usage etc., These values are retrieved by using the keys provided by the Twitter. This Twitter API delivers the file in unformatted ,unstructured text’s of attributes.
 For these data the dataframes are created with columns name as attribute names  such as Friends count,Poke count,Followers count etc. These  datasets from the Twitter API  have non ASCIEE characters and some junk values.
